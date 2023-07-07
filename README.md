@@ -1,4 +1,4 @@
-#MERN AMAZONE
+#MERN MEGA MART - AMAZONE
 
 #LESSONS
 1.Introduction
